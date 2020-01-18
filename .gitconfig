@@ -1,0 +1,14 @@
+[user]
+	email = martin.petr.276@gmail.com
+	name = Martin Petr
+
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+	ui = true
+	pager = true
+	
+[credential]
+	helper = cache --timeout=3600
