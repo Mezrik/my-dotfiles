@@ -47,7 +47,6 @@ brew install ssh-copy-id
 brew install tree
 brew install vbindiff
 brew install youtube-dl
-brew install visual-studio-code
 
 # Installs Casks
 brew tap caskroom/cask
@@ -60,6 +59,7 @@ brew cask install kap
 brew cask install slack
 brew cask install spotify
 brew cask install tower
+brew install --cask visual-studio-code
 
 # Remove outdated versions from the cellar.
 brew cleanup
