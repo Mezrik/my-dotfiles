@@ -52,13 +52,13 @@ brew install youtube-dl
 brew tap caskroom/cask
 
 ## Apps I use
-brew cask install google-chrome #Chrome
-brew cask install grammarly
-brew cask install iterm2
-brew cask install kap
-brew cask install slack
-brew cask install spotify
-brew cask install tower
+brew install --cask google-chrome #Chrome
+brew install --cask grammarly
+brew install --cask iterm2
+brew install --cask kap
+brew install --cask slack
+brew install --cask spotify
+brew install --cask tower
 brew install --cask visual-studio-code
 
 # Remove outdated versions from the cellar.
