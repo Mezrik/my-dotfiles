@@ -47,6 +47,7 @@ brew install ssh-copy-id
 brew install tree
 brew install vbindiff
 brew install youtube-dl
+brew install visual-studio-code
 
 # Installs Casks
 brew tap caskroom/cask
