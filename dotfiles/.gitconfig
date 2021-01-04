@@ -10,5 +10,9 @@
 	ui = true
 	pager = true
 	
+[core]
+	# Use custom `.gitignore`
+	excludesfile = ~/.gitignore
+
 [credential]
 	helper = cache --timeout=3600
