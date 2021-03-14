@@ -55,11 +55,10 @@ brew tap homebrew/cask
 brew install --cask google-chrome #Chrome
 brew install --cask grammarly
 brew install --cask iterm2
-brew install --cask kap
 brew install --cask slack
 brew install --cask spotify
-brew install --cask tower
 brew install --cask visual-studio-code
+brew install --cask tunnelblick
 
 # Remove outdated versions from the cellar.
 brew cleanup
