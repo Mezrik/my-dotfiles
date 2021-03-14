@@ -49,7 +49,7 @@ brew install vbindiff
 brew install youtube-dl
 
 # Installs Casks
-brew tap caskroom/cask
+brew tap homebrew/cask
 
 ## Apps I use
 brew install --cask google-chrome #Chrome
