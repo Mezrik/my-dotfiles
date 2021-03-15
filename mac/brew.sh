@@ -47,6 +47,8 @@ brew install ssh-copy-id
 brew install tree
 brew install vbindiff
 brew install youtube-dl
+brew install tig
+brew install nvm
 
 # Installs Casks
 brew tap homebrew/cask
@@ -59,6 +61,12 @@ brew install --cask slack
 brew install --cask spotify
 brew install --cask visual-studio-code
 brew install --cask tunnelblick
+brew install --cask google-backup-and-sync
+brew install --cask zoom
+brew install --cask daisydisk
+brew install --cask microsoft-teams
+brew install --cask discord
+brew install --cask loom
 
 # Remove outdated versions from the cellar.
 brew cleanup
