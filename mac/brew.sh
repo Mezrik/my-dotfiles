@@ -67,6 +67,7 @@ brew install --cask daisydisk
 brew install --cask microsoft-teams
 brew install --cask discord
 brew install --cask loom
+brew install --cask toggl-track
 
 # Remove outdated versions from the cellar.
 brew cleanup
